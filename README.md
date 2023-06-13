@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I share my studies on data science and data analysis.
+I share my studies on data engineering.
 <!--
 **caanbayram/caanbayram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
